@@ -9,7 +9,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4940&pause=1000&color=055bfa&center=true&width=435&lines=Cybersecurity+engineer;Full+stack+developer;Coffee+addict;Music+lover;0tuka on ig" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="https://i.scdn.co/image/ab6761610000e5eb5cd698b5accf2a317d39a937" alt="Imagen representativa" width="320" />
+<img align="left" src="https://i.pinimg.com/736x/ef/11/17/ef1117832e90f93f5c403cdea6d77f2d.jpg" alt="Imagen representativa" width="320" />
 <hr>
 
 ```JS
