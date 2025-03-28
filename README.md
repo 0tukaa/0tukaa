@@ -1,21 +1,21 @@
 <h1 align="center">
-¡Hello, I'm Hex or Hexxzi :)!
+¡Hello, I'm Jades or Otuka :)!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4940&pause=1000&color=055bfa&center=true&width=435&lines=Cybersecurity+engineer;Full+stack+developer;Coffee+addict;Music+lover;hexxzi.dev" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4940&pause=1000&color=055bfa&center=true&width=435&lines=Cybersecurity+engineer;Full+stack+developer;Coffee+addict;Music+lover;0tuka on ig" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="https://i.pinimg.com/736x/e0/53/fe/e053fe5bcc9a6e11303dbca4168069f2.jpg" alt="Imagen representativa" width="320" />
+<img align="left" src="https://i.scdn.co/image/ab6761610000e5eb5cd698b5accf2a317d39a937" alt="Imagen representativa" width="320" />
 <hr>
 
 ```JS
 🌱About
 ------------------------------------------------------------------------
-👧🏽 I’m Hexxzi
+👧🏽 I’m Otuka
 👩🏽‍💻 Full Stack Developer
 💻 Cybersecurity Enthusiast
 🌍 I speak English, Spanish, Russian and Japanese
@@ -27,8 +27,8 @@
  
 ```
 <div align="center">
-  <a target="_blank" href="https://www.codewars.com/users/Hexxzi">
-    <img src="https://www.codewars.com/users/Hexxzi/badges/large" alt="Badges de Codewars" />
+  <a target="_blank" href="https://www.codewars.com/users/0tukaa">
+    <img src="https://www.codewars.com/users/0tukaa/badges/large" alt="Badges de Codewars" />
   </a>
 </div>
 &nbsp;
