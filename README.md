@@ -18,8 +18,7 @@
 👧🏽 I’m Otuka
 👩🏽‍💻 Full Stack Developer
 💻 Cybersecurity Enthusiast
-🌍 I speak English, Spanish, Russian and Japanese
-🏙️ I live in Seattle
+🏙️ I live in Mexico
 🧩 "Defining yourself is limiting."
 🐾 I love cats
 🎧 Music Lover
